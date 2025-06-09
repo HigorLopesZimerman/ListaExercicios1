@@ -47,7 +47,7 @@ int main(){
 		std::cout << "1. Adicao\n";
 		std::cout << "2. Subtracao\n";
 		std::cout << "3. Multiplicacao\n";
-		std::cout << "4. Subtracao\n";
+		std::cout << "4. Divisao\n";
 		std::cout << "0. Sair\n";
 		std::cout << "\nInsira uma das opcoes: ";
 		std::cin >> option;
