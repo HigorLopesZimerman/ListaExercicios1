@@ -18,4 +18,6 @@ Este repositório contém a resolução da lista de exercícios em C++, desenvol
 Não é necessário instalar bibliotecas adicionais. Todos os códigos foram feitos para compilar e rodar diretamente no Dev-C++.
 
 ## Estrutura dos Arquivos
-
+- O comando `system("cls")` é utilizado para limpar a tela entre as interações (compatível com Windows).
+- Os códigos são simples, diretos e funcionam 100% no Dev-C++.
+- Todos os códigos usam um menu para a realização das atividades.
